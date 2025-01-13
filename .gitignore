@@ -1,2 +1,10 @@
 .idea/workspace.xml
 !.idea
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directory
+env/
+venv/
